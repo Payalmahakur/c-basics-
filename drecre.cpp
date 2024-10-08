@@ -12,9 +12,5 @@ using namespace std;
     int d= a--;
     cout<<"d=  " << d << endl;
     cout<<"c = " << c << endl;
-
-
-
-
-return 0;
+    return 0;
  }
